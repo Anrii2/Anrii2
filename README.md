@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrija</h1>
 # About Me:
 
-- I’m currently learning React<br>- All of my projects are available at andrijamojovicportfolio.rs<br>- How to reach me andrijam.contact@gmail.com<br>- Know about my experiences andrijamojovicportfolio.rs/portfolio<br>
+- I’m currently learning React<br>- All of my projects are available at andrijamojovicportfolio.rs<br>- How to reach me andrijam.contact@gmail.com<br>- <!-- Know about my experiences andrijamojovicportfolio.rs/portfolio<br> -->
 
 
 ## 🌐 Socials:
